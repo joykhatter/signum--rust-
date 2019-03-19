@@ -1,0 +1,12 @@
+Write a Rust function that accepts two Strings (or string slices
+) as input, and returns the concatenation of the two. 
+
+Write a Rust function that accepts an array of floating point values,
+ and a tuple containing an upper and lower bound. Return the average
+ of the values in the sub-array defined by the upper and lower bounds.
+ Assume the tuple contains valid bounds. No need to error check. 
+
+
+Write a Rust signum function. It should accept an array of integers,
+ and return an array containing the values -1, 0, or 1 depending on 
+the sign of the elements in the argument array. 
